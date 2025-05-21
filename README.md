@@ -58,7 +58,7 @@ print("Accuracy:", accuracy)
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
 ```
-## Output
+### Output
 ## Encoding:
 ![Screenshot 2025-05-21 105958](https://github.com/user-attachments/assets/c6b51da6-db4b-4ef8-896f-2bc1ff5144f0)
 ## Head :
