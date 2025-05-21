@@ -63,7 +63,7 @@ print("Accuracy:", accuracy)
 ![Screenshot 2025-05-21 105958](https://github.com/user-attachments/assets/c6b51da6-db4b-4ef8-896f-2bc1ff5144f0)
 ## Head :
 ![Screenshot 2025-05-21 110123](https://github.com/user-attachments/assets/c2091a2a-de84-4009-b2c9-5bb70ec5c438)
-## info:
+## Info:
 ![Screenshot 2025-05-21 110314](https://github.com/user-attachments/assets/d2467366-a933-4f02-8432-bc5c7d63829a)
 ## isnull():sum
 ![Screenshot 2025-05-21 111526](https://github.com/user-attachments/assets/c5e3397b-a85d-4a69-a675-5f917d50ca7d)
